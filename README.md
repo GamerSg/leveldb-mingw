@@ -1,4 +1,4 @@
-**LevelDB-mingw port allows the compilation of leveldb static library using mingw32-make alone. MSys or any other dependancies are not required **
+**LevelDB-mingw port allows the compilation of leveldb static library using mingw32-make alone. MSys or any other dependancies are not required**
 
 Author: Luv Khemani
 
