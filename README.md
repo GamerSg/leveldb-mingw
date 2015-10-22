@@ -1,3 +1,12 @@
+**LevelDB-mingw port allows the compilation of leveldb static library using mingw32-make alone. MSys or any other dependancies are not required **
+
+Author: Luv Khemani
+
+# Build
+To build, simply cd to the build folder and run
+    mingw32-make
+
+
 **LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.**
 
 Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
