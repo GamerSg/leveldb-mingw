@@ -4,7 +4,7 @@ Author: Luv Khemani
 
 # Build
 To build, simply cd to the build folder and run
-    mingw32-make
+    `mingw32-make`
 
 The makefile has been tested to work with gcc 4.92 and above.
 
